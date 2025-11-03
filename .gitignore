@@ -1,0 +1,16 @@
+# Standard System Files/Directories to Ignore
+.bash_history
+.bash_logout
+.bashrc
+.profile
+.gitconfig
+
+# Cache and local directories
+.cache/
+.local/
+snap/
+
+# Specific hidden files that often cause issues
+.vscode/
+*.log
+*.swp
